@@ -3,6 +3,7 @@
 피그마 기초부터 실무 팁까지 혼자 공부하면서 기록하는 저장소 
 
 ---
+
 ### Day 3: 와이어프레임 그리기 및 오토 레이아웃 맛보기 (26.07.13)
 - 참고 영상: udemy > 쏘이
 - 피그마 링크: 
@@ -29,6 +30,14 @@ https://www.figma.com/design/8U0ioI65aQfyM9EcZ42Bqo/%EC%99%80%EC%9D%B4%EC%96%B4%
 <img width="612" height="799" alt="image" src="https://github.com/user-attachments/assets/75137386-48f7-4e2f-a4fa-bf4fa9ad97c4" />
 <img width="328" height="847" alt="image" src="https://github.com/user-attachments/assets/36975861-b70f-4631-82c0-bdedb24cea40" />
 <img width="388" height="721" alt="image" src="https://github.com/user-attachments/assets/8b5b547b-4bca-4d7f-9d4a-7a5360da42d7" />
+
+
+### + UI 기획안 작성하기 (피그마 확용하여 기획안 만들기)
+- 피그마 링크:
+https://www.figma.com/design/lqJaCpWVYDWUqrwXf8PDh7/%EA%B8%B0%ED%9A%8D%EC%95%88?node-id=0-1&t=UDfH4iMFumNKNtMU-1
+
+## 작업물
+<img width="1113" height="768" alt="image" src="https://github.com/user-attachments/assets/e48e59bf-3c01-4c0f-9f30-1cca491f361f" />
 
 
 
